@@ -17,3 +17,7 @@ with col2:
     and real-world usability—whether it's building AI-powered platforms or creating scalable systems for organizations    
     """
     st.info(content)
+
+content2 = """Below you will find some of the apps i have built. Feel free to contact me!
+"""
+st.write(content2)
