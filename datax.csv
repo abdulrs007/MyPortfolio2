@@ -1,0 +1,12 @@
+Title,Description ,URL,image
+Portfolio Website,A website built entirely in Python to showcase coding projects and apps,https://github.com/abdulrs007/My-Portfolio-site,2.png
+Weather API,A REST API built with Python and Flask to serve historical weather data for various cities.,https://github.com/abdulrs007/Historical-weather-data-Api,6.png
+Tour Scraper,A program that checks a music band's website and sends an email when there are new tours.,https://github.com/abdulrs007/Scrapping-Tours-SQL,8.png
+Helper Chatbot,"A chatbot built that can discuss anything with a human, powered by OpenAI.",https://github.com/abdulrs007/Chatbot-GPT,9.png
+Webcam Motion Detector,A program that monitors the computer webcam and sends an email when a new object enters the view.,https://github.com/abdulrs007/Webcam-Motion-Detector,11.png
+Django AI Coding Site,"A Django?powered web portal that brings AI into your developer workflow. Conceptualized and developed to seamlessly incorporate AI into code editing, this project harnesses OpenAI GPT-4 to provide real?time code correction and intelligent suggestions across 30+ programming languages�all inside a polished, responsive interface.",https://github.com/abdulrs007/Django_AI_Coding_Site,12.png
+AI Agent,This is an AI Agent using the Retrieval augmented generation model to answer prompts on world population and demography based on the tools provided to it ,https://https://github.com/abdulrs007/AI-Agents,15.png
+Visualizing Weather Forecast,A data web app that visualizes the weather forecast for the next five days of any city.,https://github.com/abdulrs007/Weather-Forcast-Data-Dashboard,16.png
+Online Store + Inventory Management,"A Django Online store (invenory management, cart persistance, customer profile and registration)  with integration with paystack payment gateway.",https://adornedbyfeefee.com,18.png
+Restaurant Menu Web App,A Django web app to let customers see a restaurant menu and meal availability.,https://pythonhow.com,19.png
+Online Store,A Django online store app where users can place orders and sellers can manage them.,https://shabakatalimdad.com/,20.png
