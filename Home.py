@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-import time
+
 
 # Page configuration with custom theme
 st.set_page_config(
